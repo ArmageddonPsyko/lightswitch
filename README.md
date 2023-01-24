@@ -1,5 +1,6 @@
 # lightswitch
-![screenshot_cleaned](https://user-images.githubusercontent.com/25614362/214202205-daceca5f-fa2a-49d0-bf54-f7732ac76dcd.jpg)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/25614362/214202205-daceca5f-fa2a-49d0-bf54-f7732ac76dcd.jpg)" width="103" height="192">
 
 Lighswitch is a simple GUI app that checks if LightingService.exe is installed and/or running.
 
